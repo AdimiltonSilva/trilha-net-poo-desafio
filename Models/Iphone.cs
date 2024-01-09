@@ -8,7 +8,7 @@ namespace DesafioPOO.Models
 
         public override void InstalarAplicativo(string nomeApp)
         {
-            Console.WriteLine($"Aplicativo {nomeApp} instalado no {Modelo} com sucesso.");
+            Console.WriteLine($"O aplicativo {nomeApp} instalado no {Modelo} com sucesso.");
         }
     }
 }
